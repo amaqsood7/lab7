@@ -1,0 +1,11 @@
+OPS435 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: amaqsood7
+    Linux system name: fedora
+    Linux system version: Fedora release 34 (Thirty Four)
+    Python executable: /usr/bin/python3
+    Python version: 397
+    OS Platform: linux
+    Working Directory: /home/amaqsood7/ops445/lab7
+    Start at: Tue Nov 23 22:55:35 2021
+=================================================================
